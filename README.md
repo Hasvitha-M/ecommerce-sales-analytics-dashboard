@@ -40,12 +40,12 @@ The project demonstrates a **complete data analytics workflow**, including:
 # SQL Analysis Performed
 
 ![SQL analysis](sql/analysis_queries.sql)
-## Total Revenue
-## Revenue by Product Category
-## Top Products by Sales
-## Regional Sales Performance
-## Highest Revenue Customers
-## Monthly Sales Trend
+- Total Revenue
+- Revenue by Product Category
+- Top Products by Sales
+- Regional Sales Performance
+- Highest Revenue Customers
+- Monthly Sales Trend 
 
 
 # Dashboard Features
@@ -83,10 +83,10 @@ ecommerce-sales-analytics
 │   └── dashboard_screenshot.png
 │
 ├── sales_analysis.ipynb
-├── ecommerce_sales_dashboard.pbix
 └── README.md
 ```
 
 # Dashboard Preview
+
 
 ![Dashboard](dashboard/dashboard_screenshot.png)
